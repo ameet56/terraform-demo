@@ -1,6 +1,6 @@
 # 🎮 Simon Game
 
-A fun and interactive **memory game** built using **HTML**, **CSS**, and **JavaScript**.  
+A fun and interactive **memory game** built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
@@ -14,8 +14,8 @@ A fun and interactive **memory game** built using **HTML**, **CSS**, and **JavaS
 
 ## 💻 Tech Stack
 
-- **HTML** – structure of the game
-- **CSS** – styling
+- **HTML** – used to build structure of the game
+- **CSS** – used for styling
 - **JavaScript** – core game logic and user interaction
 
 ---
