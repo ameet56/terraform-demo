@@ -6,4 +6,4 @@ yum install -y httpd
 yum enable httpd
 
 # Start the web server
-service httpd start
+yum start httpd
